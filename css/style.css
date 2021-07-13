@@ -1,0 +1,567 @@
+*
+{
+    box-sizing: border-box;
+}
+.start
+{
+  color: #A8A8A8;
+  background-color: #171717;
+  overflow: hidden;
+  padding: 6px 0;
+
+}
+
+.container
+{
+    width:1175px;
+    margin: auto;
+}
+.start .container [class="fas fa-phone"] , p
+{
+    float: left;
+    font-size: 14px;
+    overflow: hidden;
+    margin-top: 15px; margin-left: 7px;
+}
+
+.start .container ul
+{
+    float: right;
+    list-style: none;
+    overflow: hidden;
+
+}
+
+.start .container ul li
+{
+    float: left;
+    margin-left: 10px;
+    overflow: hidden;
+}
+
+
+nav
+{
+    overflow: hidden;
+    margin-top: -700px;
+    background-color: rgba(0,0,0,0.55);
+}
+
+nav p
+{
+    font-size: 30px;
+    font-weight: bold ;
+    color: white;
+    float: left;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    background: none;
+}
+
+nav .container ul
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+nav .container ul li
+{
+    float: left;
+    margin-left: 20px;
+    color: #fff;
+}
+
+nav ul li:hover
+{
+  color: #3a93f3 ;
+  cursor: pointer;
+}
+
+.back
+{
+    height: 700px;
+    background-image: url("../messi2.jpg");
+    background-size: cover;
+    overflow: hidden;
+}
+.back .Title
+{
+  background-color: rgba(0,0,0,0.2);
+  margin: 250px auto 0px auto;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+  overflow: hidden;
+  width: 41.5%;
+}
+.back .Title p
+{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 45px;
+  color: white;
+}
+.back .Title span
+{
+  font-family: sans-serif ;
+  font-size: 35px;
+  color: white;
+}
+
+.back .Title button
+{
+  background-color: #3A93F3;
+  border:none;
+  border-radius: 25px;
+  color: white ;
+  text-align: center;
+  padding: 20px 25px;
+  margin: 10px;
+}
+details ul
+{
+  list-style: none;
+}
+details ul li
+{
+  clear: both;
+  background-color: rgba(58, 147, 243, 0.404);
+  padding: 10px 10px 10px 10px ;
+  width: 100px;
+  border: 1px solid rgba(58, 147, 243, 0.7);
+}
+
+/* start article */
+.article{
+  margin-top: 540px;
+  color: #474747;
+}
+.container2
+{
+    width:1175px;
+    margin: auto;
+    background-color: white ;
+    padding: 15px 20px;
+    overflow: hidden;
+    border: 4px solid rgba(0,0,0,.2);
+    color: #474747;
+}
+
+.article .container2 .left , .right
+{
+  width: 48%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  overflow: hidden;
+  color: #474747;
+}
+
+.article .container2 .left
+{
+  float: left;
+  color: #474747;
+}
+.article .container2 p
+{
+ color: #474747;
+}
+.article .container2 .left p
+{
+  font-size: 42px;
+  color: #474747;
+  overflow: hidden;
+}
+
+.article .container2 .right
+{
+ float: right;
+ margin-top: 15px;
+ overflow: hidden;
+ color: #474747;
+}
+.article .container2 .right p ,h6
+{
+ width: 90%;
+ margin: 15px 5%;
+ font-size: 16px;
+}
+.article .container2 .right .Relement
+{
+  width: 48%;
+  float: left;
+  color: #474747;
+}
+/* end article */
+/* start third */
+.third .container h5
+{
+ margin: 100px auto 0px ;
+ text-align: center;
+ color: #474747;
+ font-family: Georgia, "Times New Roman", Times, serif ;
+}
+.third .container h1
+{
+   margin: 30px auto 30px;
+   text-align: center;
+   color: #474747;
+   font-family: Georgia, "Times New Roman", Times, serif ;
+}
+
+.third .container .fourelements
+{
+ margin: 100px 0px 85px 10px;
+}
+.third .container .arrang
+{
+ border: .7px solid rgba(0,0,0,.2);
+ color: #474747;
+ float: left;
+ text-align: center;
+ width: 23%;
+ margin-left: 15px;
+ padding: 45px 10px;
+ box-shadow: 5px 5px 7px #CCC;
+ overflow: hidden;
+}
+.third .container .arrang p
+{
+ width: 96%;
+ margin-left: 5%;
+ color: #474747;
+ font-family: Georgia, "Times New Roman", Times, serif ;
+}
+.third .container .arrang h3
+{
+ margin-top: 38px;
+  font-family: Georgia, "Times New Roman", Times, serif ;
+}
+
+.third i
+{
+color: #3A93F3;
+background-color: #FFFFFF;
+font-size: 30px;
+padding: 16px;
+}
+.third i:hover
+{
+color:#FFFFFF ;
+background-color:#3A93F3 ;
+cursor: pointer;
+}
+.forth
+{
+ height: 600px;
+ margin-top: 535px;
+ overflow: hidden;
+}
+
+/* start forth */
+.forth
+{
+ background-image: url(../nature.jpg);
+ background-attachment: fixed;
+ background-size: 100%;
+}
+
+.forth .gray
+{
+  background-color: rgba(0,0,0,.3);
+  width: 100%;
+  height: 100%;
+  padding-top: 30px;
+}
+
+.forth h5
+{
+ margin-top: 60px;
+}
+.forth h5 , h1
+{
+ text-align: center;
+ font-family: Georgia, "Times New Roman", Times, serif ;
+ color: white ;
+}
+
+.forth .container .arrang2
+{
+ float: left;
+ width: 23%;
+ margin-left: 20px;
+ margin-top: 70px;
+}
+
+.forth .container .arrang2 img
+{
+ width: 100%;
+ height: 190px;
+ padding: 1px;
+ background-color: white ;
+ border: 1px solid #888;
+}
+.forth .container .arrang2 p , .forth .container .arrang2 h2
+{
+ font-family: Georgia, "Times New Roman", Times, serif ;
+ color: #474747;
+ color: white ;
+}
+.forth .container .arrang2 .word
+{
+ font-size: large;
+ color: white ;
+}
+.forth .container .arrang2 button
+{
+  background-color: #3A93F3;
+  border:none;
+  border-radius: 7px;
+  color: white ;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+/* end forth */
+/* start forth2 */
+.forth2
+{
+ background-color: #F4F4F4;
+ padding:85px 0px;
+ overflow: hidden;
+}
+.forth2 .container .left2
+{
+ width: 47%;
+ color: black;
+ float: left;
+}
+.forth2 .container .left2 h1 ,p
+{
+ color: #474747;
+ text-align: left;
+}
+.forth2 .container .left2 p
+{
+ font-size: 18px;
+ margin-top: 40px;
+}
+
+.forth2 .container .left2 button
+{
+  background-color: #3A93F3;
+  border:none;
+  border-radius: 10px;
+  color: white ;
+  padding: 15px 25px;
+  margin-top: 50px;
+}
+
+.forth2 .container img
+{
+ width: 47%;
+ height: 100%;
+ padding: 3px;
+ background-color: white ;
+ border: 1px solid #BBB;
+ float: right;
+ box-shadow: 6px 6px 7px #CCC;
+}
+/* end forth2 */
+/* start fifth */
+.fifth p
+{
+ font-family: Georgia, "Times New Roman", Times, serif;
+ font-size: 30px;
+ color: #474747;
+ text-align: center;
+ width: 360px;
+ margin: 80px 37.1%;
+}
+.fifth p span
+{
+ font-size: 16px;
+}
+.fifth .container .arrang3
+{
+ width: 33%;
+ float: left;
+ margin-bottom: 80px;
+}
+.fifth .container .arrang3 img
+{
+ overflow: hidden;
+ float: left;
+ width: 96%;
+ height: 235px;
+ padding: 2px;
+ background-color: white;
+ border: 1px solid #CCC;
+}
+.fifth .container .arrang3 p
+{
+ font-size: 16px;
+ width: 90%;
+ text-align: left;
+ margin:auto ;
+}
+/* end fifth */
+/* start six */
+.six
+{
+ background-color:#292727;
+ background-size: 100%;
+ height: auto;
+ overflow: hidden;
+ margin-top: 660px;
+ padding-bottom: 85px;
+ }
+ .six .start2
+ {
+  padding: 70px 0px;
+  overflow: hidden;
+ }
+.six .container .start2 .arrang4
+{
+ float: left;
+ width: 25%;
+}
+.six .container .start2 .arrang4 img
+{
+ width: 85%;
+ padding: 1px;
+ background-color: white ;
+ border: 1.2px solid #DDD ;
+ box-shadow: 2px 2px 5px #888;
+}
+.six .container .start2 .arrang4 h1
+{
+ text-align: left;
+ color: #3A93F3;
+}
+.six .container .start2 .arrang4 h4
+{
+ text-align: left;
+ letter-spacing:1px; 
+ color: white;
+}
+.six .container .start2 .arrang4 p
+{
+ text-align: left;
+ color: #DDD;
+ line-height: 1.5;
+ width: 85%;
+ font-size: 17px;
+}
+.six .container .start2 .arrang4 ul
+{
+ width: 100%;
+ list-style: none;
+  margin-left: -40px;
+}
+.six .container .start2 .arrang4 li
+{
+ float: left;
+ text-align: left;
+ margin-right: 10px;
+ font-size: 30px;
+ color: #777;
+ padding: 4px;
+ background-color: rgba(0,0,0,.5);
+}
+.six .container .start2 .arrang4 li:hover
+{
+ cursor: pointer ;
+ color: #3A93F3 ;
+ background-color: #666;
+}
+.six .container .start2 .arrang4 form input[type=text] , .six .container .start2 .arrang4 form input[type=email]
+{
+ margin-bottom: 15px;
+ width: 90%;
+ border: none;
+ height: 40px;
+ border-radius: 13px;
+ background-color: rgba(0,0,0,.5);
+ color: white ;
+}
+.six .container .start2 .arrang4 form input[type=submit]
+{
+ background-color: #3A93F3;
+ border:none;
+ border-radius: 10px;
+ color: white ;
+ padding: 15px 25px;
+ margin-top: 3px;
+}
+.six .container .start2 .arrang4 hr
+{
+ width: 77%;
+ margin: 17px 0px;
+ color: #474747 ;
+}
+.six .container .start2 .arrang4 a
+{
+ text-decoration: none ;
+ color :#3A93F3;
+ font-size: 18px;
+}
+.six .container > hr
+{
+ background-color:#474747;
+ padding: 3px;
+ border: none;
+ border-radius: 1.5px
+}
+
+.six .container  .last2
+{
+ margin-top: 65px;
+ width: 32%;
+ padding-top: 15px;
+ padding-left: 15px;
+ float:left ;
+ background-color: rgba(0,0,0,0.5);
+ margin-left: 15px;
+}
+
+.six .container  .last2 i
+{
+ float: left;
+ border: none;
+ padding: 12px 20px 15px;
+ height: 40px;
+ margin-right: 20px;
+ background-color:#3a93f3;
+ color: white ;
+}
+.six .container  .last2 h3
+{
+ color: white ;
+ margin-top: -8px;
+}
+.six .container .last2 p
+{
+ width: 60%;
+ font-size: 18px;
+ margin-left: -3px;
+ margin-top: -10px;
+}
+.six .container .last2 a
+{
+ text-decoration: none ;
+ color :#3A93F3;
+ font-size: 18px;
+}
+
+/* end six */
+/* start footer */
+footer
+{
+ background-color: black;
+ overflow: hidden;
+ padding: 7px 0px;
+}
+footer .container p
+{
+ color: #FFF;
+ text-align:center;
+ width: 100%;
+ font-size: 17px;
+}
